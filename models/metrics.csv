@@ -1,0 +1,2 @@
+model,roc_auc,n_train,n_test,features
+Random Forest,0.7581,4000,1000,14

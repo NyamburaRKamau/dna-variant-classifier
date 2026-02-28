@@ -1,0 +1,6 @@
+data/clinvar_prepared.csv
+models/classifier.pkl
+models/feature_names.pkl
+__pycache__/
+*.pyc
+.DS_Store
